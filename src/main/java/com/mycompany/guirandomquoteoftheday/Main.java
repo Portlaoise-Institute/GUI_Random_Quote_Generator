@@ -10,8 +10,10 @@ public class Main extends javax.swing.JFrame {
         
         public void addQuotes()
         {
-            
+
         //Add quotes to the string arraylist 
+        //We could also connect to a database and pull quotes from a larger
+        //Source
         quotes.add("All of the women on The Apprentice flirted with me "
                 + "- consciously or unconsciously. That's to be expected."
                 + "   D. Trump\n");
